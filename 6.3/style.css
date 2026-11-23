@@ -1,11 +1,10 @@
 .bla{
-    white-space: nowrap;
-    width: 200px;
+    white-space: pre;
 }
 .bla2{
-
+    white-space: pre-wrap;
 }
 
 .bla3{
-    
+    white-space: pre-line;
 }
