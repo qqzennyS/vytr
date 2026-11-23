@@ -4,3 +4,7 @@ div{
     border: 1px solid black;
     overflow-y: hidden;
 }
+
+div:hover {
+	height: auto;
+}
