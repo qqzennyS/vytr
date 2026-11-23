@@ -1,8 +1,9 @@
 table {
 	border-collapse: separate;
 	width: 400px;
-	border-spacing: 0;
-  color: white;
+	border-spacing: 10px;
+  	color: white;
+	border: 1px solid black;
   
 }
 td {
@@ -10,3 +11,4 @@ td {
 	text-align: center;
   background-color: #00A876;
 }
+
