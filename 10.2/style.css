@@ -1,12 +1,5 @@
 .bla {
-    width: 150px;
-    margin-bottom: 15px;
-    overflow-wrap: break-word;
-    border: 1px solid;
-}
-
-.bla2 {
-    width: 150px;
-    border: 1px solid;
-    word-break: break-all;
+    width: 300px;
+    border: 1px solid black;
+    hyphens: auto;
 }
