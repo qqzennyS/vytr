@@ -1,5 +1,5 @@
 div{
     width: 200px;
     height: 200px;
-    white-space: nowrap;
+    overflow: scroll;
 }
