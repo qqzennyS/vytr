@@ -1,3 +1,4 @@
-p{
-    text-align-last: right;
+p::first-letter{
+    color:red;
+    font-size: 30px;
 }
