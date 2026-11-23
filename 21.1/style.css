@@ -1,17 +1,17 @@
 table {
 	border-collapse: separate;
 	width: 400px;
-	height: 100px;
+	height: 300px;
 	border-spacing: 20px;
+	vertical-align: middle; 
+	  text-align: center;    
   	color: white;
 	border: 1px solid black;
 	
 }
 td {
 	border: 1px solid black;
-	text-align: center;
   	background-color: #00A876;
 	padding: 10px;
-	 empty-cells: hide; 
 }
 
