@@ -1,4 +1,8 @@
-p::first-letter{
+p::first-line{
     color:red;
-    font-size: 30px;
+    font-style: italic;
+}
+p{
+	width: 300px;
+	text-align: justify;
 }
