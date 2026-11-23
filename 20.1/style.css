@@ -12,5 +12,6 @@ td {
 	text-align: center;
   	background-color: #00A876;
 	padding: 10px;
+	 empty-cells: hide; 
 }
 
