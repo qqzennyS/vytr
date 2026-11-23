@@ -1,4 +1,4 @@
 .bla {
-  width: 80%;
-  column-width: 300px;
+  width: 1000px;
+  column-count: 4;
 }
