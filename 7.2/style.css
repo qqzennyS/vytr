@@ -1,3 +1,5 @@
-.bla1{
-    white-space: pre;
+#elem {
+	tab-size: 4;
+	white-space: pre;
+	border: 1px solid black;
 }
