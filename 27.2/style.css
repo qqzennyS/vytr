@@ -1,5 +1,5 @@
 #child{
-    width: max(300px, 50%);
+    width: min(400px, 30%);
     height: 100px;
     margin: 0 auto;
     border: 1px solid red;
