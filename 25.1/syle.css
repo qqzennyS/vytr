@@ -1,7 +1,3 @@
-#parent {
-	counter-reset: test;
-}
-#parent p::before {
-	counter-increment: test;
-	content: "№" counter(test) ".";
+a::after {
+	content: ' (' attr(href) ')';
 }
