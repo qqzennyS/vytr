@@ -1,12 +1,7 @@
-span{
-	position: relative;
+#parent {
+	counter-reset: test;
 }
-span::after{
-	position: absolute;
-	content: "";
-	background-color: red;
-	width: 10px;
-    height: 10px;
-	top: -15px; 
-    right: 0;
+#parent p::before {
+	counter-increment: test;
+	content:counter(test) ".";
 }
